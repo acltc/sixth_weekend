@@ -1,4 +1,4 @@
-# Create a thesaurus application. To create it, you will create two classes, Thesaurus and Entry.
+# Create a thesaurus program. To create it, you will create two classes, Thesaurus and Entry.
 # A Thesaurus will contain many Entries. An Entry contains three primary attributes:
 # word, synonymns, and antonyms. Your application should contain the following features:
 # 1. The ability to add new words to a Thesaurus.
