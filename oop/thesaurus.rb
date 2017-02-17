@@ -10,5 +10,3 @@
 #
 # Part of the challenge is to determine which functionality belongs in the Thesaurus class,
 # and which belongs in the Entry class.
-#
-# And... test your functionality using RSpec!
